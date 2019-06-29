@@ -11,6 +11,7 @@
 
     'author': "AgaramSoft",
     'website': "http://agaramsoft.com",
+    'live_test_url':'https://www.youtube.com/watch?v=oe_hNCqNOWI',
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/12.0/odoo/addons/base/data/ir_module_category_data.xml
@@ -32,4 +33,5 @@
     'demo': [
         'demo/demo.xml',
     ],
+    "images":['static/description/icon.png']
 }
